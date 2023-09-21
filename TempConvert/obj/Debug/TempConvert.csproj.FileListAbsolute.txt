@@ -1,0 +1,8 @@
+C:\Users\JacksonCooper\source\repos\TempConvert\bin\Debug\TempConvert.exe.config
+C:\Users\JacksonCooper\source\repos\TempConvert\bin\Debug\TempConvert.exe
+C:\Users\JacksonCooper\source\repos\TempConvert\bin\Debug\TempConvert.pdb
+C:\Users\JacksonCooper\source\repos\TempConvert\obj\Debug\TempConvert.csproj.AssemblyReference.cache
+C:\Users\JacksonCooper\source\repos\TempConvert\obj\Debug\TempConvert.csproj.SuggestedBindingRedirects.cache
+C:\Users\JacksonCooper\source\repos\TempConvert\obj\Debug\TempConvert.csproj.CoreCompileInputs.cache
+C:\Users\JacksonCooper\source\repos\TempConvert\obj\Debug\TempConvert.exe
+C:\Users\JacksonCooper\source\repos\TempConvert\obj\Debug\TempConvert.pdb

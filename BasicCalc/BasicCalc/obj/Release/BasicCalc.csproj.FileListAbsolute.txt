@@ -1,0 +1,16 @@
+C:\Users\JacksonCooper\source\repos\Week2Ex\BasicCalc\bin\Release\BasicCalc.exe.config
+C:\Users\JacksonCooper\source\repos\Week2Ex\BasicCalc\bin\Release\BasicCalc.exe
+C:\Users\JacksonCooper\source\repos\Week2Ex\BasicCalc\bin\Release\BasicCalc.pdb
+C:\Users\JacksonCooper\source\repos\Week2Ex\BasicCalc\obj\Release\BasicCalc.csproj.AssemblyReference.cache
+C:\Users\JacksonCooper\source\repos\Week2Ex\BasicCalc\obj\Release\BasicCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\JacksonCooper\source\repos\Week2Ex\BasicCalc\obj\Release\BasicCalc.csproj.CoreCompileInputs.cache
+C:\Users\JacksonCooper\source\repos\Week2Ex\BasicCalc\obj\Release\BasicCalc.exe
+C:\Users\JacksonCooper\source\repos\Week2Ex\BasicCalc\obj\Release\BasicCalc.pdb
+C:\Users\JacksonCooper\source\repos\BasicCalc\BasicCalc\bin\Release\BasicCalc.exe.config
+C:\Users\JacksonCooper\source\repos\BasicCalc\BasicCalc\bin\Release\BasicCalc.exe
+C:\Users\JacksonCooper\source\repos\BasicCalc\BasicCalc\bin\Release\BasicCalc.pdb
+C:\Users\JacksonCooper\source\repos\BasicCalc\BasicCalc\obj\Release\BasicCalc.csproj.AssemblyReference.cache
+C:\Users\JacksonCooper\source\repos\BasicCalc\BasicCalc\obj\Release\BasicCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\JacksonCooper\source\repos\BasicCalc\BasicCalc\obj\Release\BasicCalc.csproj.CoreCompileInputs.cache
+C:\Users\JacksonCooper\source\repos\BasicCalc\BasicCalc\obj\Release\BasicCalc.exe
+C:\Users\JacksonCooper\source\repos\BasicCalc\BasicCalc\obj\Release\BasicCalc.pdb

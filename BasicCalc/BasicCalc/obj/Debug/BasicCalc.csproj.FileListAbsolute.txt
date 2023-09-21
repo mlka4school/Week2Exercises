@@ -1,0 +1,8 @@
+C:\Users\JacksonCooper\source\repos\Week2Ex\BasicCalc\bin\Debug\BasicCalc.exe.config
+C:\Users\JacksonCooper\source\repos\Week2Ex\BasicCalc\bin\Debug\BasicCalc.exe
+C:\Users\JacksonCooper\source\repos\Week2Ex\BasicCalc\bin\Debug\BasicCalc.pdb
+C:\Users\JacksonCooper\source\repos\Week2Ex\BasicCalc\obj\Debug\BasicCalc.csproj.AssemblyReference.cache
+C:\Users\JacksonCooper\source\repos\Week2Ex\BasicCalc\obj\Debug\BasicCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\JacksonCooper\source\repos\Week2Ex\BasicCalc\obj\Debug\BasicCalc.csproj.CoreCompileInputs.cache
+C:\Users\JacksonCooper\source\repos\Week2Ex\BasicCalc\obj\Debug\BasicCalc.exe
+C:\Users\JacksonCooper\source\repos\Week2Ex\BasicCalc\obj\Debug\BasicCalc.pdb
